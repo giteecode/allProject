@@ -122,6 +122,7 @@
 | 112  | [基于Java+Springboot+Vue的宠物领养社区小程序(源码+数据库)](https://github.com/giteecode/petAdoptCommunityPublic) | https://github.com/giteecode/petAdoptCommunityPublic         |
 | 113  | [基于Java+Springboot+Vue的体育馆预约系统(源代码+数据库+12000字论文)](https://github.com/giteecode/gymSubscribePublic) | https://github.com/giteecode/gymSubscribePublic              |
 | 114  | [基于Java+Springboot+Vue的实验室预约系统(源代码+数据库+万字论文)](https://github.com/giteecode/laboratoryPublic) | https://github.com/giteecode/laboratoryPublic                |
+| 115  | [基于Java+Springboot+Vue的教务管理系统(源代码+数据库)](https://github.com/giteecode/JwSystemPublic) | https://github.com/giteecode/JwSystemPublic                  |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
