@@ -126,6 +126,7 @@
 | 116  | [基于Java+Springboot+Vue的员工人事管理系统(源代码+数据库)](https://github.com/giteecode/StaffManagerPublic) | https://github.com/giteecode/StaffManagerPublic              |
 | 117  | [基于Java+Springboot+Vue的校园二手商城管理系统(源代码+数据库+8000字论文+ppt)](https://github.com/giteecode/secondhandtradingPublic) | https://github.com/giteecode/secondhandtradingPublic         |
 | 118  | [基于Java+Springboot的宠物寄养管理系统(源代码+数据库)](https://github.com/giteecode/petfostercarePublic) | https://github.com/giteecode/petfostercarePublic             |
+| 119  | [基于Java+Springboot+vue的智能停车场管理系统(源代码+数据库+9000字论文)](https://github.com/giteecode/smartparkingPublic) | https://github.com/giteecode/smartparkingPublic              |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
@@ -157,6 +158,7 @@
 | 629  | [ssm大学生校园兼职（源代码+数据库）](https://github.com/giteecode/moonlightingPublic) | https://github.com/giteecode/moonlightingPublic              |
 | 630  | [ssm网上花店(源代码+数据库+12000字论文+ppt)](https://github.com/giteecode/flowerShopSsmPublic) | https://github.com/giteecode/flowerShopSsmPublic             |
 | 631  | 饮料商城（源代码+数据库+带6000字论文）                       |                                                              |
+| 632  | [基于Java+ssm的宠物店商城系统(源代码+数据库)](https://github.com/giteecode/petShop3Public) | https://github.com/giteecode/petShop3Public                  |
 
 ## 接毕业设计和论文
 
