@@ -127,6 +127,8 @@
 | 117  | [基于Java+Springboot+Vue的校园二手商城管理系统(源代码+数据库+8000字论文+ppt)](https://github.com/giteecode/secondhandtradingPublic) | https://github.com/giteecode/secondhandtradingPublic         |
 | 118  | [基于Java+Springboot的宠物寄养管理系统(源代码+数据库)](https://github.com/giteecode/petfostercarePublic) | https://github.com/giteecode/petfostercarePublic             |
 | 119  | [基于Java+Springboot+vue的智能停车场管理系统(源代码+数据库+9000字论文)](https://github.com/giteecode/smartparkingPublic) | https://github.com/giteecode/smartparkingPublic              |
+| 120  | [基于Java+Springboot+vue+uniapp的小程序商城管理系统(源代码+数据库+15000字论文)](https://github.com/giteecode/weshopPublic) | https://github.com/giteecode/weshopPublic                    |
+| 121  | [基于Java+Springboot的房屋租赁管理系统(源代码+数据库+9000字文档)](https://github.com/giteecode/homerentPublic) | https://github.com/giteecode/homerentPublic                  |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
