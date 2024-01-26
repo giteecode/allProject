@@ -112,7 +112,7 @@
 | 102  | [基于Java+Springboot+vue的个人理财管理系统(源码+数据库)](https://github.com/giteecode/myacountPublic) | https://github.com/giteecode/myacountPublic                  |
 | 103  | [基于Java+Springboot+vue的药店管理系统(源码+数据库)](https://github.com/giteecode/drugManagePublic) | https://github.com/giteecode/drugManagePublic                |
 | 104  | [基于Java+Springboot+Vue的医院预约挂号小程序(源码+数据库)](https://github.com/giteecode/hospitalRegistePublic) | https://github.com/giteecode/hospitalRegistePublic           |
-| 105  | [基于Java+Springboot+Vue的校园跑腿系统(源码+数据库+开发文档)](ttps://github.com/giteecode/campusRunningPublic) | https://github.com/giteecode/campusRunningPublich            |
+| 105  | [基于Java+Springboot+Vue的校园跑腿系统(源码+数据库+开发文档)](https://github.com/giteecode/campusRunningPublic) | https://github.com/giteecode/campusRunningPublich            |
 | 106  | [基于Java+Springboot的外卖系统(源码+数据库)](https://github.com/giteecode/takeawayPublic) | https://github.com/giteecode/takeawayPublic                  |
 | 107  | [基于Java+Springboot+Vue的民宿酒店预订管理系统(源码+数据库)](https://github.com/giteecode/homestayHotelPublic) | https://github.com/giteecode/homestayHotelPublic             |
 | 108  | [基于Java+Springboot的OA办公自动化人事管理系统(源码+数据库)](https://github.com/giteecode/oaSystemPublic) | https://github.com/giteecode/oaSystemPublic                  |
@@ -131,6 +131,7 @@
 | 121  | [基于Java+Springboot的房屋租赁管理系统(源代码+数据库+9000字文档)](https://github.com/giteecode/homerentPublic) | https://github.com/giteecode/homerentPublic                  |
 | 122  | [基于Java+Springboot+Vue的摄影跟拍预订管理系统(源代码+数据库+万字论文+PPT)](https://github.com/giteecode/photographyPublic) | https://github.com/giteecode/photographyPublic               |
 | 123  | [基于Java+Springboot+Vue的实验室预约管理系统(源代码+数据库+万字论文+PPT)](https://github.com/giteecode/laboratoryAppointPublic) | https://github.com/giteecode/laboratoryAppointPublic         |
+| 124  | [基于Java+Springboot的家庭个人理财管理系统(源代码+数据库+开题+ppt)](https://github.com/giteecode/familyfinancialPublic) | https://github.com/giteecode/familyfinancialPublic           |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
