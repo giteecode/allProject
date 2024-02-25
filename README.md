@@ -134,6 +134,8 @@
 | 124  | [基于Java+Springboot的家庭个人理财管理系统(源代码+数据库+开题+ppt)](https://github.com/giteecode/familyfinancialPublic) | https://github.com/giteecode/familyfinancialPublic           |
 | 125  | [基于Java+Springboot+Vue的学生成绩管理系统(源代码+数据库)](https://github.com/giteecode/studentScorePublic) | https://github.com/giteecode/studentScorePublic              |
 | 126  | [基于Java+Springboot+Vue的二手交易商城管理系统(源代码+数据库)](https://github.com/giteecode/secondShopPublic) | https://github.com/giteecode/secondShopPublic                |
+| 127  | [基于Java+Springboot+Vue的商城管理系统(源代码+数据库)](https://github.com/giteecode/mallvuePublic) | https://github.com/giteecode/mallvuePublic                   |
+| 128  | [基于Java+Springboot+Vue的共享单车租赁管理系统(源代码+数据库)](https://github.com/giteecode/bikeManagePublic) | https://github.com/giteecode/bikeManagePublic                |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
