@@ -136,6 +136,7 @@
 | 126  | [基于Java+Springboot+Vue的二手交易商城管理系统(源代码+数据库)](https://github.com/giteecode/secondShopPublic) | https://github.com/giteecode/secondShopPublic                |
 | 127  | [基于Java+Springboot+Vue的商城管理系统(源代码+数据库)](https://github.com/giteecode/mallvuePublic) | https://github.com/giteecode/mallvuePublic                   |
 | 128  | [基于Java+Springboot+Vue的共享单车租赁管理系统(源代码+数据库)](https://github.com/giteecode/bikeManagePublic) | https://github.com/giteecode/bikeManagePublic                |
+| 129  | [基于Java+Springboot+thymeleaf的物业管理系统(源代码+数据库)](https://github.com/giteecode/cummunityestatePublic) | https://github.com/giteecode/cummunityestatePublic           |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
