@@ -153,6 +153,8 @@
 | 143  | [基于Java+Springboot+Vue的健身房管理系统(源代码+数据库+12000字论文)](https://github.com/giteecode/gymManagePublic) | https://github.com/giteecode/gymManagePublic                 |
 | 144  | [基于Java+Springboot+Vue的商城小程序(源代码+数据库)](https://github.com/giteecode/mallShopwxPublic) | https://github.com/giteecode/mallShopwxPublic                |
 | 145  | [基于Java+Springboot+vue+uniapp的驾校预约小程序(源代码+数据库+15000字论文)](https://github.com/giteecode/drivingAppointPublic) | https://github.com/giteecode/drivingAppointPublic            |
+| 146  | [基于Java+Springboot+vue+uniapp的景区旅游购票小程序(源代码+数据库+9000字论文)](https://github.com/giteecode/touristTicketsPublic) | https://github.com/giteecode/touristTicketsPublic            |
+| 147  | [基于Java+Springboot的手机维修管理系统(源代码+数据库)](https://github.com/giteecode/mobileRepairSysPublic) | https://github.com/giteecode/mobileRepairSysPublic           |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
