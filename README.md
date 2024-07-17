@@ -156,7 +156,7 @@
 | 146  | [基于Java+Springboot+vue+uniapp的景区旅游购票小程序(源代码+数据库+9000字论文)](https://github.com/giteecode/touristTicketsPublic) | https://github.com/giteecode/touristTicketsPublic            |
 | 147  | [基于Java+Springboot的手机维修管理系统(源代码+数据库)](https://github.com/giteecode/mobileRepairSysPublic) | https://github.com/giteecode/mobileRepairSysPublic           |
 | 148  | [基于Java+Springboot+vue的汽车维修管理系统(源代码+数据库+13000字论文)](https://github.com/giteecode/carRepairSystemPublic) | https://github.com/giteecode/carRepairSystemPublic           |
-| 149  | [基于Java+Springboot+vue的游戏论坛商城管理系统(源代码+数据库+11000字论文)]() | https://github.com/giteecode/gameForumMallSysPublichttps://github.com/giteecode/gameForumMallSysPublic |
+| 149  | [基于Java+Springboot+vue的游戏论坛商城管理系统(源代码+数据库+11000字论文)]() | https://github.com/giteecode/gameForumMallSysPublic          |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
