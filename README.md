@@ -1,8 +1,8 @@
 ## 接毕业设计和论文
 
-### 作者QQ：931708230 微信：ynwwxid (支持修改、 部署调试、 支持代做毕设)
+### 作者微信：grapro666 QQ：3642795578  (支持部署调试、支持代做毕设)
 
-### 接网站建设、小程序、H5、APP、各种系统等
+### 接javaweb、python、小程序、H5、APP、各种管理系统、单片机、嵌入式等开发
 
 ### 选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt  都可以做
 
@@ -155,6 +155,8 @@
 | 145  | [基于Java+Springboot+vue+uniapp的驾校预约小程序(源代码+数据库+15000字论文)](https://github.com/giteecode/drivingAppointPublic) | https://github.com/giteecode/drivingAppointPublic            |
 | 146  | [基于Java+Springboot+vue+uniapp的景区旅游购票小程序(源代码+数据库+9000字论文)](https://github.com/giteecode/touristTicketsPublic) | https://github.com/giteecode/touristTicketsPublic            |
 | 147  | [基于Java+Springboot的手机维修管理系统(源代码+数据库)](https://github.com/giteecode/mobileRepairSysPublic) | https://github.com/giteecode/mobileRepairSysPublic           |
+| 148  | [基于Java+Springboot+vue的汽车维修管理系统(源代码+数据库+13000字论文)](https://github.com/giteecode/carRepairSystemPublic) | https://github.com/giteecode/carRepairSystemPublic           |
+| 149  | [基于Java+Springboot+vue的游戏论坛商城管理系统(源代码+数据库+11000字论文)]() | https://github.com/giteecode/gameForumMallSysPublichttps://github.com/giteecode/gameForumMallSysPublic |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
@@ -191,6 +193,6 @@
 
 ## 接毕业设计和论文
 
-### 作者QQ：931708230 微信：ynwwxid (支持修改、 部署调试、 支持代做毕设)
+### 作者微信：grapro666 QQ：3642795578 (支持部署调试、支持代做毕设)
 
-### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+### 接javaweb、python、小程序、H5、APP、各种管理系统、单片机、嵌入式等开发
