@@ -157,6 +157,7 @@
 | 147  | [基于Java+Springboot的手机维修管理系统(源代码+数据库)](https://github.com/giteecode/mobileRepairSysPublic) | https://github.com/giteecode/mobileRepairSysPublic           |
 | 148  | [基于Java+Springboot+vue的汽车维修管理系统(源代码+数据库+13000字论文)](https://github.com/giteecode/carRepairSystemPublic) | https://github.com/giteecode/carRepairSystemPublic           |
 | 149  | [基于Java+Springboot+vue的游戏论坛商城管理系统(源代码+数据库+11000字论文)](https://github.com/giteecode/gameForumMallSysPublic) | https://github.com/giteecode/gameForumMallSysPublic          |
+| 150  | [基于Java+Springboot+vue的体育运动品商城系统(源代码+数据库+12000字论文)](https://github.com/giteecode/sportMallPublic) | https://github.com/giteecode/sportMallPublic                 |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
@@ -190,6 +191,7 @@
 | 631  | 饮料商城（源代码+数据库+带6000字论文）                       |                                                              |
 | 632  | [基于Java+ssm的宠物店商城系统(源代码+数据库)](https://github.com/giteecode/petShop3Public) | https://github.com/giteecode/petShop3Public                  |
 | 633  | [基于Java+ssm的医院挂号系统(源代码+数据库+11000字论文+开题)](https://github.com/giteecode/hospitalRegistssmPublic) | https://github.com/giteecode/hospitalRegistssmPublic         |
+| 634  | [基于Java+SSM的校园快递物流管理系统(源代码+数据库+11000字论文)](https://github.com/giteecode/schoolExpressPublic) | https://github.com/giteecode/schoolExpressPublic             |
 
 ## 接毕业设计和论文
 
