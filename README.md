@@ -171,6 +171,8 @@
 | 161  | [基于Java+Springboot+vue+微信小程序的校园论坛二手闲置系统(源代码+数据库+万字论文)](https://github.com/giteecode/campusSecondTradForumPublic) | https://github.com/giteecode/campusSecondTradForumPublic     |
 | 162  | [基于Java+Springboot的高校教学管理系统(源代码+数据库+万字论文+ppt)](https://github.com/giteecode/teachingManagePublic) | https://github.com/giteecode/teachingManagePublic            |
 | 163  | [基于Java+Springboot的景区旅游门票管理系统(源代码+数据库)](https://github.com/giteecode/tourismvue4Public) | https://github.com/giteecode/tourismvue4Public               |
+| 164  | [基于Java+Springboot+vue3的汽车租赁管理系统(源代码+数据库)](https://github.com/giteecode/carRental2Public) | https://github.com/giteecode/carRental2Public                |
+| 165  | [基于Java+Springboot+vue3的二手房交易管理系统(源代码+数据库+11000字论文)](https://github.com/giteecode/secondHandHousePublic) | https://github.com/giteecode/secondHandHousePublic           |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
