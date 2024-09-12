@@ -179,6 +179,8 @@
 | 169  | [基于Java+Springboot+vue3的餐厅点餐管理系统(源代码+数据库)](https://github.com/giteecode/onlineOrderPublic) | https://github.com/giteecode/onlineOrderPublic               |
 | 170  | [基于Java+Springboot+vue3+小程序的房屋租赁小程序系统(源代码+数据库)](https://github.com/giteecode/houserentwxPublic) | https://github.com/giteecode/houserentwxPublic               |
 | 171  | [基于Java+Springboot+vue3+小程序的宠物店小程序系统(源代码+数据库)](https://github.com/giteecode/petshopwxPublic) | https://github.com/giteecode/petshopwxPublic                 |
+| 172  | [基于Java+Springboot+vue的智能景区旅游规划管理系统(源代码+数据库)](https://github.com/giteecode/tourismvue5Public) | https://github.com/giteecode/tourismvue5Public               |
+| 173  | [基于Java+Springboot+vue3的酒店民宿管理系统(源代码+数据库)](https://github.com/giteecode/hotelHomestayPublic) | https://github.com/giteecode/hotelHomestayPublic             |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
