@@ -193,6 +193,8 @@
 | 183  | [基于Java+Springboot+vue的旅游小程序系统(源代码+数据库)](https://github.com/giteecode/tourismwechatPublic) | https://github.com/giteecode/tourismwechatPublic             |
 | 184  | [基于Java+Springboot+vue3的企业信用信息管理系统(源代码+数据库)](https://github.com/giteecode/corporateCreditPublic) | https://github.com/giteecode/corporateCreditPublic           |
 | 185  | [基于Java+Springboot+vue3+小程序的校园网上商店小程序系统(源代码+数据库)](https://github.com/giteecode/shopwechatPublic) | https://github.com/giteecode/shopwechatPublic                |
+| 186  | [基于Java+Springboot+vue3的档案管理系统(源代码+数据库)](https://github.com/giteecode/documentManagePublic) | https://github.com/giteecode/documentManagePublic            |
+| 187  | [基于Java+Springboot+vue3的电动车销售管理系统(源代码+数据库)](https://github.com/giteecode/electricVehicleMall) | https://github.com/giteecode/electricVehicleMall             |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
