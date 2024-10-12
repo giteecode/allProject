@@ -189,12 +189,14 @@
 | 179  | [基于Java+Springboot+vue的智能交通管理系统(源代码+数据库+万字论文)](https://github.com/giteecode/smartTransportationPublic) | https://github.com/giteecode/smartTransportationPublic       |
 | 180  | [基于Java+Springboot+vue的校园二手交易小程序(源代码+数据库+万字论文)](https://github.com/giteecode/campusServicesPublic) | https://github.com/giteecode/campusServicesPublic            |
 | 181  | [基于Java+Springboot+vue3的潮鞋交易管理系统(源代码+数据库+开题+万字论文)](https://github.com/giteecode/trendyShoeMallPublic) | https://github.com/giteecode/trendyShoeMallPublic            |
-| 182  | [基于Java+Springboot+vue3的河道治理管理系统(源代码+数据库+开题+万字论文)](https://github.com/giteecode/rivermanagePublic) | https://github.com/giteecode/rivermanagePublic               |
+| 182  | [基于Java+Springboot+vue3的河道治理管理系统(源代码+数据库)](https://github.com/giteecode/rivermanagePublic) | https://github.com/giteecode/rivermanagePublic               |
 | 183  | [基于Java+Springboot+vue的旅游小程序系统(源代码+数据库)](https://github.com/giteecode/tourismwechatPublic) | https://github.com/giteecode/tourismwechatPublic             |
 | 184  | [基于Java+Springboot+vue3的企业信用信息管理系统(源代码+数据库)](https://github.com/giteecode/corporateCreditPublic) | https://github.com/giteecode/corporateCreditPublic           |
 | 185  | [基于Java+Springboot+vue3+小程序的校园网上商店小程序系统(源代码+数据库)](https://github.com/giteecode/shopwechatPublic) | https://github.com/giteecode/shopwechatPublic                |
 | 186  | [基于Java+Springboot+vue3的档案管理系统(源代码+数据库)](https://github.com/giteecode/documentManagePublic) | https://github.com/giteecode/documentManagePublic            |
 | 187  | [基于Java+Springboot+vue3的电动车销售管理系统(源代码+数据库)](https://github.com/giteecode/electricVehicleMall) | https://github.com/giteecode/electricVehicleMall             |
+| 188  | [基于Java+Springboot+vue的医院挂号小程序(源代码+数据库)](https://github.com/giteecode/hospitalRegistrationAppletPublic) | https://github.com/giteecode/hospitalRegistrationAppletPublic |
+| 189  | [基于Java+Springboot+vue的自动售水机管理系统(源代码+数据库+13000字论文+任务书)](https://github.com/giteecode/waterVendingManagePublic) | https://github.com/giteecode/waterVendingManagePublic        |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
