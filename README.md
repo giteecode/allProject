@@ -197,6 +197,8 @@
 | 187  | [基于Java+Springboot+vue3的电动车销售管理系统(源代码+数据库)](https://github.com/giteecode/electricVehicleMall) | https://github.com/giteecode/electricVehicleMall             |
 | 188  | [基于Java+Springboot+vue的医院挂号小程序(源代码+数据库)](https://github.com/giteecode/hospitalRegistrationAppletPublic) | https://github.com/giteecode/hospitalRegistrationAppletPublic |
 | 189  | [基于Java+Springboot+vue的自动售水机管理系统(源代码+数据库+13000字论文+任务书)](https://github.com/giteecode/waterVendingManagePublic) | https://github.com/giteecode/waterVendingManagePublic        |
+| 190  | [基于Java+Springboot+vue的景区旅游推荐管理系统(源代码+数据库+7000字论文)](https://github.com/giteecode/travelRecommendPublic) | https://github.com/giteecode/travelRecommendPublic           |
+| 191  | [基于Java+Springboot+vue的电子产品商城管理系统(源代码+数据库)](https://github.com/giteecode/electronicProductMallPublic) | https://github.com/giteecode/electronicProductMallPublic     |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
