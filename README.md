@@ -203,6 +203,8 @@
 | 193  | [基于Java+Springboot+vue的物业管理系统(源代码+数据库)](https://github.com/giteecode/propertyManagePublic) | https://github.com/giteecode/propertyManagePublic            |
 | 194  | [基于Java+Springboot+vue3的体育网站系统(源代码+数据库)](https://github.com/giteecode/sportSystemPublic) | https://github.com/giteecode/sportSystemPublic               |
 | 195  | [基于Java+Springboot+vue的会员商城管理系统(源代码+数据库)](https://github.com/giteecode/shopPublic) | https://github.com/giteecode/shopPublic                      |
+| 196  | [基于Java+Springboot+vue3的在线学习系统(源代码+数据库+开题+任务书)](https://github.com/giteecode/onlineLearningPublic) | https://github.com/giteecode/onlineLearningPublic            |
+| 197  | [基于Java+Springboot+vue的摄影预订管理系统(源代码+数据库)](https://github.com/giteecode/photography2Public) | https://github.com/giteecode/photography2Public              |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
