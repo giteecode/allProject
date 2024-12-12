@@ -209,6 +209,8 @@
 | 199  | [基于Java+Springboot+vue3的会议室管理系统](https://github.com/giteecode/mettingManagePublic) | https://github.com/giteecode/mettingManagePublic             |
 | 200  | [基于Java+Springboot+vue3的招聘小程序(源代码+数据库)](https://github.com/giteecode/recruitResumePublic) | https://github.com/giteecode/recruitResumePublic             |
 | 201  | [基于Java+Springboot+vue3的高校人员管理系统(源代码+数据库)](https://github.com/giteecode/schoolPersonnelPublic) | https://github.com/giteecode/schoolPersonnelPublic           |
+| 202  | [基于Java+Springboot+vue的物流管理系统(源代码+数据库+万字论文)](https://github.com/giteecode/logisticsManagePublic) | https://github.com/giteecode/logisticsManagePublic           |
+| 203  | [基于Java+Springboot+vue3的美容院管理系统(源代码+数据库+12000字论文)](https://github.com/giteecode/beautySalonSysPublic) | https://github.com/giteecode/beautySalonSysPublic            |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
