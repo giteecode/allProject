@@ -225,6 +225,8 @@
 | 215  | [基于python+Django+vue的新闻推荐系统(源代码+数据库)](https://github.com/giteecode/newsRecommendPublic) | https://github.com/giteecode/newsRecommendPublic             |
 | 216  | [基于Java+Springboot+vue3的非遗文创电商系统(源代码+数据库)](https://github.com/giteecode/legacyCulturalPublic) | https://github.com/giteecode/legacyCulturalPublic            |
 | 217  | [基于python+Django+vue的房屋租赁系统(源代码+数据库+万字论文)](https://github.com/giteecode/houserentPythonPublic) | https://github.com/giteecode/houserentPythonPublic           |
+| 218  | [基于Java+Springboot+vue的考试报名管理系统(源代码+数据库+万字论文+PPT)](https://github.com/giteecode/registrationSystemPublic) | https://github.com/giteecode/registrationSystemPublic        |
+| 219  | [基于python+Django+vue的房屋租赁系统(源代码+数据库+万字论文)](https://github.com/giteecode/houserentPython2Public) | https://github.com/giteecode/houserentPython2Public          |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
