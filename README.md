@@ -231,6 +231,8 @@
 | 221  | [基于Java+Springboot+vue3的超市管理系统(源代码+数据库+8600字论文)](https://github.com/giteecode/supermarket4Public) | https://github.com/giteecode/supermarket4Public              |
 | 222  | [基于Java+Springboot+vue的公益志愿服务管理系统(源代码+数据库)](https://github.com/giteecode/publicWelfarePublic) | https://github.com/giteecode/publicWelfarePublic             |
 | 223  | [基于Java+Springboot+vue的中医养生系统(源代码+数据库)](https://github.com/giteecode/chineseMedicineHealthPreservatioPublic) | https://github.com/giteecode/chineseMedicineHealthPreservatioPublic |
+| 224  | [基于Java+Springboot+vue的家政服务系统(源代码+数据库)](https://github.com/giteecode/houseServicePublic) | https://github.com/giteecode/houseServicePublic              |
+| 225  | [基于Java+Springboot+vue的个人健康管理系统(源代码+数据库+万字论文)](https://github.com/giteecode/personHealthManage2Public) | https://github.com/giteecode/personHealthManage2Public       |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
