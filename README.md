@@ -237,6 +237,8 @@
 | 227  | [基于SpringBoot+hadoop+spark+Vue的大数据房屋维修系统(源代码+数据库)](https://github.com/giteecode/houseMaintenancePublic) | https://github.com/giteecode/houseMaintenancePublic          |
 | 228  | [基于Java+Springboot+vue3的咖啡厅座位预约系统(源代码+数据库)](https://github.com/giteecode/coffeeShopSeatReservaPublic) | https://github.com/giteecode/coffeeShopSeatReservaPublic     |
 | 229  | [基于Java+Springboot+vue的法律案件管理系统(源代码+数据库+万字论文)](https://github.com/giteecode/legalCasesManagePublic) | https://github.com/giteecode/legalCasesManagePublic          |
+| 230  | [基于python+爬虫+vue的豆瓣影视数据可视化系统(源代码+数据库+15000字论文+开题+答辩ppt)](https://github.com/giteecode/movieBigDataScreen2Public) | https://github.com/giteecode/movieBigDataScreen2Public       |
+| 231  | [基于Java+Springboot+vue3的海洋环境科普保护平台(源代码+数据库)](https://github.com/giteecode/marineEnvSciencePopularizaPublic) | https://github.com/giteecode/marineEnvSciencePopularizaPublic |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
