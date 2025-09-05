@@ -46,7 +46,7 @@
 | 036  | [springboot+vue 校园疫情信息管理系统(源代码+数据库+11000字论文)](https://github.com/giteecode/SchoolEpidemicManage-public) | https://github.com/giteecode/SchoolEpidemicManage-public     |
 | 037  | [springboot 酒店预订管理系统](https://github.com/giteecode/hotelSystem-public) | https://github.com/giteecode/hotelSystem-public              |
 | 038  | [springboot+vue 动漫商城管理系统](https://github.com/giteecode/cartoonManage-public) | https://github.com/giteecode/cartoonManage-public            |
-| 039  | [基于Springboot+vue的校园二手交易和交流论坛系统(源代码+数据库)](https://github.com/giteecode/stuSecond-public) | https://github.com/giteecode/stuSecond-public                |
+| 039  | [基于Springboot+vue的校园二手交易和交流论坛系统(源代码+数据库+2万字论文+开题+ppt)](https://github.com/giteecode/stuSecond-public) | https://github.com/giteecode/stuSecond-public                |
 | 040  | [基于Springboot的动漫论坛系统(源代码+数据库+ppt文档)](https://github.com/giteecode/cartoonForum-public) | https://github.com/giteecode/cartoonForum-public             |
 | 041  | [基于springboot+vue的心理咨询系统(源代码+数据库)](https://github.com/giteecode/psychlolgyhealth-public) | https://github.com/giteecode/psychlolgyhealth-public         |
 | 042  | [基于springboot的房屋租赁系统(源代码+数据库)](https://github.com/giteecode/houserent2-public) | https://github.com/giteecode/houserent2-public               |
@@ -93,7 +93,7 @@
 | 083  | [基于springboot+vue的超市进销存管理系统(源代码+数据库+12000字论文)](https://github.com/giteecode/supermarket3Public) | https://github.com/giteecode/supermarket3Public              |
 | 084  | [基于springboot+vue的房屋租赁出售系统(源代码+数据库+12000字论文)](https://github.com/giteecode/houserentvue2Public) | https://github.com/giteecode/houserentvue2Public             |
 | 085  | [基于springboot的微信小程序宠物领养医院系统(源代码+数据库+万字论文+开题)](https://github.com/giteecode/petAdoptpublic) | https://github.com/giteecode/petAdoptpublic                  |
-| 086  | [基于Springboot+Vue的宠物医院系统(源代码+数据库)](https://github.com/giteecode/petHospitalPublic) | https://github.com/giteecode/petHospitalPublic               |
+| 086  | [基于Springboot+Vue的宠物医院系统(源代码+数据库+17000字论文+开题)](https://github.com/giteecode/petHospitalPublic) | https://github.com/giteecode/petHospitalPublic               |
 | 087  | [基于Springboot的宠物店管理系统(源代码+数据库+15000字论文+开题任务书)](https://github.com/giteecode/petShopPublic) | https://github.com/giteecode/petShopPublic                   |
 | 088  | [基于Springboot+Vue的宠物店猫咖管理系统(源代码+数据库+11000字论文)](https://github.com/giteecode/petShop2Public) | https://github.com/giteecode/petShop2Public                  |
 | 089  | [基于Springboot的健身房管理系统(源代码+数据库+万字论文)](https://github.com/giteecode/gym2Public) | https://github.com/giteecode/gym2Public                      |
@@ -110,7 +110,7 @@
 | 100  | [基于Java+Springboot+Vue的WMS仓库管理系统+微信小程序(源码+数据库+部署视频)](https://github.com/giteecode/wareManageSysPublic) | https://github.com/giteecode/wareManageSysPublic             |
 | 101  | [基于Java+Springboot的电影购票微信小程序带后台管理(源码+数据库+13000字论文)](https://github.com/giteecode/movieTicketPublic) | https://github.com/giteecode/movieTicketPublic               |
 | 102  | [基于Java+Springboot+vue的个人理财管理系统(源码+数据库)](https://github.com/giteecode/myacountPublic) | https://github.com/giteecode/myacountPublic                  |
-| 103  | [基于Java+Springboot+vue的药店管理系统(源码+数据库)](https://github.com/giteecode/drugManagePublic) | https://github.com/giteecode/drugManagePublic                |
+| 103  | [基于Java+Springboot+vue的药店管理系统(源码+数据库+11000字论文+开题+ppt)](https://github.com/giteecode/drugManagePublic) | https://github.com/giteecode/drugManagePublic                |
 | 104  | [基于Java+Springboot+Vue的医院预约挂号小程序(源码+数据库)](https://github.com/giteecode/hospitalRegistePublic) | https://github.com/giteecode/hospitalRegistePublic           |
 | 105  | [基于Java+Springboot+Vue的校园跑腿系统(源码+数据库+开发文档)](https://github.com/giteecode/campusRunningPublic) | https://github.com/giteecode/campusRunningPublich            |
 | 106  | [基于Java+Springboot的外卖系统(源码+数据库+开发文档+14000字论文)](https://github.com/giteecode/takeawayPublic) | https://github.com/giteecode/takeawayPublic                  |
@@ -122,7 +122,7 @@
 | 112  | [基于Java+Springboot+Vue的宠物领养社区小程序(源码+数据库+12000字论文)](https://github.com/giteecode/petAdoptCommunityPublic) | https://github.com/giteecode/petAdoptCommunityPublic         |
 | 113  | [基于Java+Springboot+Vue的体育馆预约系统(源代码+数据库+12000字论文)](https://github.com/giteecode/gymSubscribePublic) | https://github.com/giteecode/gymSubscribePublic              |
 | 114  | [基于Java+Springboot+Vue的实验室预约系统(源代码+数据库+万字论文)](https://github.com/giteecode/laboratoryPublic) | https://github.com/giteecode/laboratoryPublic                |
-| 115  | [基于Java+Springboot+Vue的教务管理系统(源代码+数据库)](https://github.com/giteecode/JwSystemPublic) | https://github.com/giteecode/JwSystemPublic                  |
+| 115  | [基于Java+Springboot+Vue的教务管理系统(源代码+数据库+开题+ppt)](https://github.com/giteecode/JwSystemPublic) | https://github.com/giteecode/JwSystemPublic                  |
 | 116  | [基于Java+Springboot+Vue的员工人事管理系统(源代码+数据库+15000论文+开题)](https://github.com/giteecode/StaffManagerPublic) | https://github.com/giteecode/StaffManagerPublic              |
 | 117  | [基于Java+Springboot+Vue的校园二手商城管理系统(源代码+数据库+8000字论文+ppt)](https://github.com/giteecode/secondhandtradingPublic) | https://github.com/giteecode/secondhandtradingPublic         |
 | 118  | [基于Java+Springboot的宠物寄养管理系统(源代码+数据库)](https://github.com/giteecode/petfostercarePublic) | https://github.com/giteecode/petfostercarePublic             |
@@ -134,7 +134,7 @@
 | 124  | [基于Java+Springboot的家庭个人理财管理系统(源代码+数据库+6500字论文+开题+ppt)](https://github.com/giteecode/familyfinancialPublic) | https://github.com/giteecode/familyfinancialPublic           |
 | 125  | [基于Java+Springboot+Vue的学生成绩管理系统(源代码+数据库+万字论文)](https://github.com/giteecode/studentScorePublic) | https://github.com/giteecode/studentScorePublic              |
 | 126  | [基于Java+Springboot+Vue的二手交易商城管理系统(源代码+数据库)](https://github.com/giteecode/secondShopPublic) | https://github.com/giteecode/secondShopPublic                |
-| 127  | [基于Java+Springboot+Vue的商城管理系统(源代码+数据库+11000字论文)](https://github.com/giteecode/mallvuePublic) | https://github.com/giteecode/mallvuePublic                   |
+| 127  | [基于Java+Springboot+Vue的商城管理系统(源代码+数据库+11000字论文+开题+ppt)](https://github.com/giteecode/mallvuePublic) | https://github.com/giteecode/mallvuePublic                   |
 | 128  | [基于Java+Springboot+Vue的共享单车租赁管理系统(源代码+数据库)](https://github.com/giteecode/bikeManagePublic) | https://github.com/giteecode/bikeManagePublic                |
 | 129  | [基于Java+Springboot+thymeleaf的物业管理系统(源代码+数据库+12000字论文+开题+ppt)](https://github.com/giteecode/cummunityestatePublic) | https://github.com/giteecode/cummunityestatePublic           |
 | 130  | [基于Java+Springboot+Vue的景区旅游门票管理系统](https://github.com/giteecode/tourismvue2Public) | https://github.com/giteecode/tourismvue2Public               |
@@ -165,7 +165,7 @@
 | 155  | [基于Java+Springboot+vue的课堂考勤管理系统(源代码+数据库+11000字论文)](https://github.com/giteecode/classAttendancePublic) | https://github.com/giteecode/classAttendancePublic           |
 | 156  | [基于Java+Springboot+vue的电子招投标管理系统(源代码+数据库+万字论文)](https://github.com/giteecode/onlineBiddingPublic) | https://github.com/giteecode/onlineBiddingPublic             |
 | 157  | [基于Java+Springboot+vue的粮食仓库管理系统(源代码+数据库+万字论文)](https://github.com/giteecode/granarySystemPublic) | https://github.com/giteecode/granarySystemPublic             |
-| 158  | [基于Java+Springboot的二手车交易管理系统(源代码+数据库+万字论文+ppt)](https://github.com/giteecode/secondHandCarMallPublic) | https://github.com/giteecode/secondHandCarMallPublic         |
+| 158  | [基于Java+Springboot的二手车交易管理系统(源代码+数据库+万字论文+ppt+开题)](https://github.com/giteecode/secondHandCarMallPublic) | https://github.com/giteecode/secondHandCarMallPublic         |
 | 159  | [基于Java+Springboot+vue的幼儿园管理系统(源代码+数据库+万字论文+ppt)](https://github.com/giteecode/kindergartenManagePublic) | https://github.com/giteecode/kindergartenManagePublic        |
 | 160  | [基于Java+Springboot+vue的高校竞赛管理系统(源代码+数据库+万字论文)](https://github.com/giteecode/collegeCompetitionManagePublic) | https://github.com/giteecode/collegeCompetitionManagePublic  |
 | 161  | [基于Java+Springboot+vue+微信小程序的校园论坛二手闲置系统(源代码+数据库+万字论文)](https://github.com/giteecode/campusSecondTradForumPublic) | https://github.com/giteecode/campusSecondTradForumPublic     |
@@ -174,7 +174,7 @@
 | 164  | [基于Java+Springboot+vue3的汽车租赁管理系统(源代码+数据库)](https://github.com/giteecode/carRental2Public) | https://github.com/giteecode/carRental2Public                |
 | 165  | [基于Java+Springboot+vue3的二手房交易管理系统(源代码+数据库+11000字论文)](https://github.com/giteecode/secondHandHousePublic) | https://github.com/giteecode/secondHandHousePublic           |
 | 166  | [基于Java+Springboot+vue3的流浪宠物救助管理小程序(源代码+数据库)](https://github.com/giteecode/petManagewxPublic) | https://github.com/giteecode/petManagewxPublic               |
-| 167  | [基于Java+Springboot+vue3+小程序的物业管理系统小程序(源代码+数据库+万字论文+文献综述)](https://github.com/giteecode/estateappPublic) | https://github.com/giteecode/estateappPublic                 |
+| 167  | [基于Java+Springboot+vue3+小程序的物业管理系统小程序(源代码+数据库+万字论文+文献综述+开题+ppt)](https://github.com/giteecode/estateappPublic) | https://github.com/giteecode/estateappPublic                 |
 | 168  | [基于Java+Springboot+vue3的高校就业管理系统(源代码+数据库+14000字论文+开题+PPT)](https://github.com/giteecode/collegeEmploymentPublic) | https://github.com/giteecode/collegeEmploymentPublic         |
 | 169  | [基于Java+Springboot+vue3的餐厅点餐管理系统(源代码+数据库)](https://github.com/giteecode/onlineOrderPublic) | https://github.com/giteecode/onlineOrderPublic               |
 | 170  | [基于Java+Springboot+vue3+小程序的房屋租赁小程序系统(源代码+数据库)](https://github.com/giteecode/houserentwxPublic) | https://github.com/giteecode/houserentwxPublic               |
@@ -184,7 +184,7 @@
 | 174  | [基于Java+Springboot+vue3+小程序的农产品社区团购小程序系统(源代码+数据库+开题+万字论文)](https://github.com/giteecode/communityGroupBuyingPublic) | https://github.com/giteecode/communityGroupBuyingPublic      |
 | 175  | [基于Java+Springboot+vue3的医院预约挂号管理系统(源代码+数据库)](https://github.com/giteecode/hospitalRegistrationPublic) | https://github.com/giteecode/hospitalRegistrationPublic      |
 | 176  | [基于Java+Springboot+vue3的交通旅游订票管理系统(源代码+数据库)](https://github.com/giteecode/transportationTicketPublic) | https://github.com/giteecode/transportationTicketPublic      |
-| 177  | [基于Java+Springboot+vue3的古树管理系统(源代码+数据库)](https://github.com/giteecode/banyanTreeManagePublic) | https://github.com/giteecode/banyanTreeManagePublic          |
+| 177  | [基于Java+Springboot+vue3的古树管理系统(源代码+数据库+万字论文+开题报告)](https://github.com/giteecode/banyanTreeManagePublic) | https://github.com/giteecode/banyanTreeManagePublic          |
 | 178  | [基于Java+Springboot+vue的智能家具管理系统(源代码+数据库+万字论文)](https://github.com/giteecode/smartHomePublic) | https://github.com/giteecode/smartHomePublic                 |
 | 179  | [基于Java+Springboot+vue的智能交通管理系统(源代码+数据库+万字论文)](https://github.com/giteecode/smartTransportationPublic) | https://github.com/giteecode/smartTransportationPublic       |
 | 180  | [基于Java+Springboot+vue的校园二手交易小程序(源代码+数据库+万字论文)](https://github.com/giteecode/campusServicesPublic) | https://github.com/giteecode/campusServicesPublic            |
@@ -211,7 +211,7 @@
 | 201  | [基于Java+Springboot+vue3的高校人员管理系统(源代码+数据库)](https://github.com/giteecode/schoolPersonnelPublic) | https://github.com/giteecode/schoolPersonnelPublic           |
 | 202  | [基于Java+Springboot+vue的物流管理系统(源代码+数据库+万字论文)](https://github.com/giteecode/logisticsManagePublic) | https://github.com/giteecode/logisticsManagePublic           |
 | 203  | [基于Java+Springboot+vue3的美容院管理系统(源代码+数据库+12000字论文)](https://github.com/giteecode/beautySalonSysPublic) | https://github.com/giteecode/beautySalonSysPublic            |
-| 204  | [基于Java+Springboot+vue3的重修课程信息管理系统(源代码+数据库)](https://github.com/giteecode/retakeCoursesManagePublic) | https://github.com/giteecode/retakeCoursesManagePublic       |
+| 204  | [基于Java+Springboot+vue3的重修课程信息管理系统(源代码+数据库+功能设计文档)](https://github.com/giteecode/retakeCoursesManagePublic) | https://github.com/giteecode/retakeCoursesManagePublic       |
 | 205  | [基于Java+Springboot+vue3的民宿酒店管理系统(源代码+数据库)](https://github.com/giteecode/homestayHotel2Public) | https://github.com/giteecode/homestayHotel2Public            |
 | 206  | [基于Java+Springboot+vue3的云南特产推广系统(源代码+数据库)](https://github.com/giteecode/specialLocalProductPublic) | https://github.com/giteecode/specialLocalProductPublic       |
 | 207  | [基于Java+Springboot+vue3的运动健康小程序系统(源代码+数据库+万字论文)](https://github.com/giteecode/sportsRecordPublic) | https://github.com/giteecode/sportsRecordPublic              |
@@ -222,7 +222,7 @@
 | 212  | [基于Java+Springboot+vue3的校园运动场馆预约管理系统(源代码+数据库)](https://github.com/giteecode/gymReservationPublic) | https://github.com/giteecode/gymReservationPublic            |
 | 213  | [基于Java+Springboot+vue3的景区旅游管理系统(源代码+数据库)](https://github.com/giteecode/tourismvue6Public) | https://github.com/giteecode/tourismvue6Public               |
 | 214  | [基于Java+Springboot+vue的学生社团管理系统(源代码+数据库+13000字论文+开题+文献综述)](https://github.com/giteecode/associationManage3Public) | https://github.com/giteecode/associationManage3Public        |
-| 215  | [基于python+Django+vue的新闻推荐系统(源代码+数据库)](https://github.com/giteecode/newsRecommendPublic) | https://github.com/giteecode/newsRecommendPublic             |
+| 215  | [基于python+Django+vue的新闻推荐系统(源代码+数据库+开题报告)](https://github.com/giteecode/newsRecommendPublic) | https://github.com/giteecode/newsRecommendPublic             |
 | 216  | [基于Java+Springboot+vue3的非遗文创电商系统(源代码+数据库)](https://github.com/giteecode/legacyCulturalPublic) | https://github.com/giteecode/legacyCulturalPublic            |
 | 217  | [基于python+Django+vue的房屋租赁系统(源代码+数据库+万字论文)](https://github.com/giteecode/houserentPythonPublic) | https://github.com/giteecode/houserentPythonPublic           |
 | 218  | [基于Java+Springboot+vue的考试报名管理系统(源代码+数据库+万字论文+PPT)](https://github.com/giteecode/registrationSystemPublic) | https://github.com/giteecode/registrationSystemPublic        |
@@ -243,6 +243,8 @@
 | 233  | [基于python+Django+vue的网约车管理系统(源代码+数据库+18000字论文+开题+任务书)](https://github.com/giteecode/onlineTaxiPublic) | https://github.com/giteecode/onlineTaxiPublic                |
 | 234  | [基于Java+Springboot+html+vue的共享单车系统(源代码+数据库)](https://github.com/giteecode/sharedBikePublic) | https://github.com/giteecode/sharedBikePublic                |
 | 235  | [基于Java+Springboot+vue3的快递物流管理系统(源代码+数据库)](https://github.com/giteecode/logisticsExpressPublic) | https://github.com/giteecode/logisticsExpressPublic          |
+| 236  | [基于Java+Springboot+vue3的智慧出行系统(源代码+数据库)](https://github.com/giteecode/smartMobility) | https://github.com/giteecode/smartMobility                   |
+| 237  | [基于Java+Springboot+vue的二手书交易系统(源代码+数据库+11000字论文+ppt)](https://github.com/giteecode/secondhandBook) | https://github.com/giteecode/secondhandBook                  |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
