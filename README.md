@@ -249,6 +249,8 @@
 | 239  | [基于Java+Springboot+vue的演唱会门票预订系统(源代码+数据库)](https://github.com/giteecode/teachingEvaluationSystem) | https://github.com/giteecode/teachingEvaluationSystem        |
 | 240  | [基于python+爬虫+html的微博舆情数据可视化系统(源代码+数据库)](https://github.com/giteecode/weiboPublicOpinion) | https://github.com/giteecode/weiboPublicOpinion              |
 | 241  | [基于Java+Springboot+vue的爱心公益服务系统(源代码+数据库+11000字文档)](https://github.com/giteecode/loveCharity) | https://github.com/giteecode/loveCharity                     |
+| 242  | [基于Java+Springboot+vue3的古诗词文化交流系统带AI对话(源代码+数据库+万字论文)](https://github.com/giteecode/poetryCultureExchange) | https://github.com/giteecode/poetryCultureExchange           |
+| 243  | [基于Java+Springboot+vue3+小程序的老年人健康管理小程序(源代码+数据库)](https://github.com/giteecode/elderlyHealthManage) | https://github.com/giteecode/elderlyHealthManage             |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
