@@ -253,6 +253,10 @@
 | 243  | [基于Java+Springboot+vue3+小程序的老年人健康管理小程序(源代码+数据库)](https://github.com/giteecode/elderlyHealthManage) | https://github.com/giteecode/elderlyHealthManage             |
 | 244  | [基于Java+Springboot+vue+AI智能的宠物之家系统(源代码+数据库+2万字论文+任务书)](https://github.com/giteecode/petFamily) | https://github.com/giteecode/petFamily                       |
 | 245  | [基于Java+Springboot+vue的外卖点餐系统(源代码+数据库+19000字论文+ppt)](https://github.com/giteecode/orderFood3) | https://github.com/giteecode/orderFood3                      |
+| 246  | [基于Java+Springboot+vue3的宠物之家系统(源代码+数据库+万字论文+任务书)](https://github.com/giteecode/petHome) | https://github.com/giteecode/petHome                         |
+| 247  | [基于Java+Springboot+vue3的农村随访系统(源代码+数据库)](https://github.com/giteecode/ruralFollowUp) | https://github.com/giteecode/ruralFollowUp                   |
+| 248  | [基于Java+Springboot+vue的博物馆系统(源代码+数据库+开发文档)](https://github.com/giteecode/museum) | https://github.com/giteecode/museum                          |
+| 249  | [基于Java+Springboot+vue3的点餐系统(源代码+数据库+开题报告+任务书+11000字论文)](https://github.com/giteecode/orderFood4) | https://github.com/giteecode/orderFood4                      |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
