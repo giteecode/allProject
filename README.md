@@ -261,6 +261,8 @@
 | 251  | [基于Java+Springboot+vue3的海底捞客户管理系统(源代码+数据库+开题+任务书)](https://github.com/giteecode/haidilaoCustomerManage) | https://github.com/giteecode/haidilaoCustomerManage          |
 | 252  | [基于Java+Springboot+vue3+协同过滤推荐算法的农产品销售系统(源代码+数据库+2万字论文)](https://github.com/giteecode/agriculturalProductMall2) | https://github.com/giteecode/agriculturalProductMall2        |
 | 253  | [基于Java+Springboot+vue3+协同过滤推荐算法的传统服饰文化平台(源代码+数据库+任务书+12000字论文)](https://github.com/giteecode/traditionalClothing) | https://github.com/giteecode/traditionalClothing             |
+| 254  | [基于Java+Springboot+vue的动物园系统(源代码+数据库+万字论文)](https://github.com/giteecode/wildAnimal) | https://github.com/giteecode/wildAnimal                      |
+| 255  | [基于Java+Springboot+vue3的暑期学生实习打卡系统(源代码+数据库)](https://github.com/giteecode/internshipCheckIn) | https://github.com/giteecode/internshipCheckIn               |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
