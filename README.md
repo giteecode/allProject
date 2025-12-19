@@ -265,6 +265,8 @@
 | 255  | [基于Java+Springboot+vue3的暑期学生实习打卡系统(源代码+数据库)](https://github.com/giteecode/internshipCheckIn) | https://github.com/giteecode/internshipCheckIn               |
 | 256  | [基于Java+Springboot+vue的校园跑腿小程序(源代码+数据库)](https://github.com/giteecode/runErrands) | https://github.com/giteecode/runErrands                      |
 | 257  | [基于Java+Springboot+vue3的高校招投标系统(源代码+数据库+开题)](https://github.com/giteecode/universityBidding) | https://github.com/giteecode/universityBidding               |
+| 258  | [基于Java+Springboot+vue的在线学习系统(源代码+数据库+万字论文)](https://github.com/giteecode/onlineLearning2) | https://github.com/giteecode/onlineLearning2                 |
+| 259  | [基于Java+Springboot+vue3工单管理系统的设计与实现(源代码+数据库+开题报告)](https://github.com/giteecode/workOrderManage) | https://github.com/giteecode/workOrderManage                 |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
