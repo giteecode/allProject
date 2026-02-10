@@ -108,7 +108,7 @@
 | 098  | [基于Java+Springboot的在线教育课程视频(源码+数据库)](https://github.com/giteecode/onlineCoursePublic) | https://github.com/giteecode/onlineCoursePublic              |
 | 099  | [基于Java+Springboot+Vue的在线智慧教育考试系统(源码+数据库)](https://github.com/giteecode/onlineEducationExamPublic) | https://github.com/giteecode/onlineEducationExamPublic       |
 | 100  | [基于Java+Springboot+Vue的WMS仓库管理系统+微信小程序(源码+数据库+部署视频)](https://github.com/giteecode/wareManageSysPublic) | https://github.com/giteecode/wareManageSysPublic             |
-| 101  | [基于Java+Springboot的电影购票微信小程序带后台管理(源码+数据库+13000字论文)](https://github.com/giteecode/movieTicketPublic) | https://github.com/giteecode/movieTicketPublic               |
+| 101  | [基于Springboot的电影购票微信小程序带后台管理(源码+数据库+开题+任务书+13000字论文)](https://github.com/giteecode/movieTicketPublic) | https://github.com/giteecode/movieTicketPublic               |
 | 102  | [基于Java+Springboot+vue的个人理财管理系统(源码+数据库)](https://github.com/giteecode/myacountPublic) | https://github.com/giteecode/myacountPublic                  |
 | 103  | [基于Java+Springboot+vue的药店管理系统(源码+数据库+11000字论文+开题+ppt)](https://github.com/giteecode/drugManagePublic) | https://github.com/giteecode/drugManagePublic                |
 | 104  | [基于Java+Springboot+Vue的医院预约挂号小程序(源码+数据库)](https://github.com/giteecode/hospitalRegistePublic) | https://github.com/giteecode/hospitalRegistePublic           |
@@ -271,6 +271,8 @@
 | 261  | [基于Springboot+vue3+小程序的社区医院人员和药品管理系统(源代码+数据库+开题+任务书+12000字论文)](https://github.com/giteecode/hospitalManage) | https://github.com/giteecode/hospitalManage                  |
 | 262  | [基于Springboot+Vue3+Ai对话的图书馆图书借阅系统(源代码+数据库+开题+PPT)](https://github.com/giteecode/bookManager3) | https://github.com/giteecode/bookManager3                    |
 | 263  | [基于Springboot+Vue的影视推荐和评分系统(源代码+数据库)](https://github.com/giteecode/movieRecommend) | https://github.com/giteecode/movieRecommend                  |
+| 264  | [基于Springboot+Vue3+协同过滤的房屋租赁管理系统(源代码+数据库+万字论文+设计文档)](https://github.com/giteecode/houserent5) | https://github.com/giteecode/houserent5                      |
+| 265  | [基于Springboot+vue3的新能源充电桩管理系统(源代码+数据库+开题)](https://github.com/giteecode/carParkApp) | https://github.com/giteecode/carParkApp                      |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
