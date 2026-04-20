@@ -277,6 +277,8 @@
 | 267  | [基于Springboot+vue3+小程序的医院挂号系统(源代码+数据库)](https://github.com/giteecode/hospitalRegistrationApplet2) | https://github.com/giteecode/hospitalRegistrationApplet2     |
 | 268  | [基于Springboot+Vue的教务管理系统(源代码+数据库)](https://github.com/giteecode/universityEducation) | https://github.com/giteecode/universityEducation             |
 | 269  | [基于python+深度学习+YOLOV8的交通标志识别系统(源代码+数据库+报告)](https://github.com/giteecode/trafficSignDetection) | https://github.com/giteecode/trafficSignDetection            |
+| 270  | [基于Springboot+Vue的wms仓库管理系统(源代码+数据库)](https://github.com/giteecode/warehouse2) | https://github.com/giteecode/warehouse2                      |
+| 271  | [基于python+深度学习+YOLOV7的车牌识别系统(源代码+数据库+3万字论文)](https://github.com/giteecode/licensePlateRecognition) | https://github.com/giteecode/licensePlateRecognition         |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
