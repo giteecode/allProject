@@ -285,6 +285,8 @@
 | 275  | [基于Springboot+Vue3的校医院预约挂号管理系统(源代码+数据库)](https://github.com/giteecode/schoolHospital) | https://github.com/giteecode/schoolHospital                  |
 | 276  | [基于Java+Springboot+vue3的物流配送管理系统(源代码+数据库)](https://github.com/giteecode/logisticsDistribution) | https://github.com/giteecode/logisticsDistribution           |
 | 277  | [基于SpringBoot+Vue3健康生活平台(源代码+数据库+开题+中期报告+15000字论文+答辩ppt)](https://github.com/giteecode/sportsHealth) | https://github.com/giteecode/sportsHealth                    |
+| 278  | [基于Springboot+Vue3的宠物社区系统(源代码+数据库+开题报告+任务书+19000字论文+答辩ppt)](https://github.com/giteecode/petCommunity) | https://github.com/giteecode/petCommunity                    |
+| 279  | [基于SpringBoot+Vue3校园商户意见反馈系统(源代码+数据库+17000字论文+ppt)](https://github.com/giteecode/campusMerchantsFeedback) | https://github.com/giteecode/campusMerchantsFeedback         |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
