@@ -289,6 +289,10 @@
 | 279  | [基于SpringBoot+Vue3校园商户意见反馈系统(源代码+数据库+17000字论文+ppt)](https://github.com/giteecode/campusMerchantsFeedback) | https://github.com/giteecode/campusMerchantsFeedback         |
 | 280  | [基于SpringBoot+Vue3摄影分享预约系统带小程序(源代码+数据库+13000字论文+ppt)](https://github.com/giteecode/photographySharing) | https://github.com/giteecode/photographySharing              |
 | 281  | [基于Springcloud+Vue3的校园电子产品维修与配件电商平台带小程序(源代码+数据库)](https://github.com/giteecode/schoolRepairMall) | https://github.com/giteecode/schoolRepairMall                |
+| 282  | [基于SpringBoot+Vue3房屋租赁系统(源代码+数据库)](https://github.com/giteecode/houserent6) | https://github.com/giteecode/houserent6                      |
+| 283  | [基于SpringBoot+Vue3学生社团智能推荐系统带协同过滤算法(源代码+数据库+设计文档+万字论文+ppt)](https://github.com/giteecode/associationManage4) | https://github.com/giteecode/associationManage4              |
+| 284  | [基于SpringBoot+Vue3运动摄影小程序系统带ai对话(源代码+数据库+2万字论文+ppt)](https://github.com/giteecode/sportsPhotography) | https://github.com/giteecode/sportsPhotography               |
+| 285  | [基于SpringBoot+Vue3体育运动训练与成绩管理系统带ai对话(源代码+数据库)](https://github.com/giteecode/sportsTraining) | https://github.com/giteecode/sportsTraining                  |
 | 601  | [ssm 汽车租赁管理系统](https://github.com/giteecode/carRental-public) | https://github.com/giteecode/carRental-public                |
 | 602  | [ssm 教务管理系统](E:/\educationProject\教务管理系统\oa.zip) |                                                              |
 | 603  | [ssm在线测试与文章管理系统](https://github.com/giteecode/pms-public) | https://github.com/giteecode/pms-public                      |
